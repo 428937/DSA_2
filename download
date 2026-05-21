@@ -1,0 +1,38 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+nbactions.xml
+nb-configuration.xml
+
+# VS Code
+.vscode/
+
+# Compiled class files
+*.class
+
+# Maven / Gradle
+target/
+build/
+out/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
