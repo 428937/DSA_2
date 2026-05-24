@@ -1,0 +1,4 @@
+fatma;4
+fatma;3
+Yönetici;5
+Yönetici;2
