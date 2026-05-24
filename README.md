@@ -68,9 +68,8 @@ DSA_2/
 │       └── EmlakUygulamasi.java
 ├── emlak_verileri.txt
 ├── favoriler.txt
-├── ziyaret_talepleri.txt
-├── onaylanan_ziyaretler.txt
 ├── kullanicilar.txt
+├── ziyaret_talepleri.txt
 ├── .gitignore
 ├── LICENSE
 └── README.md
