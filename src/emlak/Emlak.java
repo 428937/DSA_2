@@ -19,7 +19,7 @@ public class Emlak implements Comparable<Emlak> {
         this.goruntulenmeSayisi = 0;
     }
 
-    // Eski constructor ile uyumluluk için bırakıldı..
+    // Eski constructor ile uyumluluk için bırakıldı.
     public Emlak(int id, String baslik, String konum, String tur, double fiyat, int metrekare, int odaSayisi) {
         this(id, baslik, konum, tur, "Satılık", fiyat, metrekare, odaSayisi, "");
     }
