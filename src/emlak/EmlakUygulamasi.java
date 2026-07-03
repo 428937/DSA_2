@@ -830,7 +830,7 @@ public class EmlakUygulamasi extends JFrame {
             ornekVerileriYukle();
         }
     }
-
+    //Verileri Kaydet
     private void verileriKaydet() {
         try (PrintWriter pw = new PrintWriter(new OutputStreamWriter(new FileOutputStream(VERI_DOSYASI), StandardCharsets.UTF_8))) {
             Dugum<Emlak> gec = emlakListesi.basDugum();
