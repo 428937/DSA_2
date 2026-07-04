@@ -2,7 +2,7 @@
 
 A comprehensive desktop application for managing real estate listings built with **Java Swing**. The project demonstrates the practical implementation of fundamental data structures and algorithms in a modern, user-friendly GUI application with separate **Admin** and **User** modes.
 
-## Overview
+### Overview
 
 This application allows users to efficiently manage real estate properties with full CRUD operations, advanced search and sorting capabilities, favorites system, visit request management, and detailed statistics. It features multiple custom data structures working together seamlessly.
 
