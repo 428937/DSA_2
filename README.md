@@ -6,7 +6,7 @@ A comprehensive desktop application for managing real estate listings built with
 
 This application allows users to efficiently manage real estate properties with full CRUD operations, advanced search and sorting capabilities, favorites system, visit request management, and detailed statistics. It features multiple custom data structures working together seamlessly.
 
-### Features
+## Features
 
 ### Core Operations
 - **Add / Update / Delete** properties with detailed information (title, type, listing type, price, m², rooms, location, image)
