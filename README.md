@@ -1,4 +1,4 @@
-# Real Estate Listing Application
+### Real Estate Listing Application
 
 A comprehensive desktop application for managing real estate listings built with **Java Swing**. The project demonstrates the practical implementation of fundamental data structures and algorithms in a modern, user-friendly GUI application with separate **Admin** and **User** modes.
 
